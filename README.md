@@ -1,3 +1,3 @@
 # GSAP-Home-Page
 
-Use node js
+Use node js and parcel bundler
